@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shekshadow
 - 👀 I’m interested in ...ethical hacking
 - 🌱 I’m currently learning ...BCA(ethical hacking)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...start ups based on ethical hacking
 - 📫 How to reach me ...abhishekkajjari48@gmail.com
 
 <!---
